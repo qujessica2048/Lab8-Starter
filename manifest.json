@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8-Starter",
+    "short_name": "Jessica Qu",
+    "description": "Recipe App",
+    "start_url": "http://127.0.0.1:5500/",
+    "display": "fullscreen",
+    "background_color": "white",
+    "theme_color": "pink",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
